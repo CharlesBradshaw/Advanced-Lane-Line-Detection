@@ -1,6 +1,6 @@
 # Advanced Lane Line Detection
-
-
+<a href="https://youtu.be/5QFLcwoe-mM" target="_blank"><img src="http://img.youtube.com/vi/5QFLcwoe-mM/0.jpg" 
+alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 ## Project Goals
 
